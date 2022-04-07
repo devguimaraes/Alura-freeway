@@ -10,7 +10,7 @@ let meusPontos = 0;
 //Variavel para veirficar colisao
 let colisao = false;
 
-//funcao yAtsenha o ator na tela.
+//funcao cria o ator na tela.
 function criaAtor() {
   image(imagemAtor, xAtor, yAtor, 30, 30);
 }
