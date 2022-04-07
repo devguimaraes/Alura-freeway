@@ -29,7 +29,7 @@ function voltaPosicaoInicial() {
     }
   }
 }
-
+//verifica a colisao do carro com a borda de baixo
 function verificaColisao(xCarro) {
   return xCarro < -50;
 }
